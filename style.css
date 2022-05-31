@@ -1,0 +1,7 @@
+.image_main{
+    width: 100vw;
+}
+
+.image_main>img{
+    width: 100%;
+}
